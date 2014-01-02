@@ -1,7 +1,11 @@
 ## AngularJS TODO REST
-===
 
 Basic angular app (based off [TodoMVC](https://github.com/tastejs/todomvc.git)) which communicates with a REST backend ([laravel4rest](https://github.com/desyncr/laravel4rest)).
+
+## Install
+
+      bower install
+      php -S 127.0.0.1:9000
 
 ## Feedback
 
